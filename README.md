@@ -1,4 +1,4 @@
-# Pong
+# 2D Game Test
 
 ## Overview
 ゲームプログラミングC++ Chapter 2 解答
